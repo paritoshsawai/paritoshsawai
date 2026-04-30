@@ -37,7 +37,7 @@ My work is centered around creating practical digital products that combine fron
 ### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,postgres,mysql" alt="Languages and data tools" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="48" height="48" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI" />
 </p>
 
 ### 🛠️ Tools and Technologies
