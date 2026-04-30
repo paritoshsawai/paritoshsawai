@@ -34,17 +34,17 @@ My work is centered around creating practical digital products that combine fron
 
 ## Technical Skills
 
-### Programming Languages
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Languages" />
 </p>
 
-### Tools and Technologies
+### 🛠️ Tools and Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs,git,github,vscode" alt="Frameworks and tools" />
 </p>
 
-### Data Analysis and Engineering
+### 📊 Data Analysis and Engineering
 
 - Data Analysis
 - Exploratory Data Analysis (EDA)
@@ -62,7 +62,7 @@ My work is centered around creating practical digital products that combine fron
 - Research-Oriented Data Workflows
 - Generative AI for Analysis and Summarization
 
-### Core Skill Areas
+### 🧠 Core Skill Areas
 
 - AI Data Analysis and Insight Generation
 - Generative AI and Prompt-Driven Workflows
