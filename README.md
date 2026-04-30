@@ -44,11 +44,31 @@ My work is centered around creating practical digital products that combine fron
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs,git,github,vscode" alt="Frameworks and tools" />
 </p>
 
+### Data Analysis and Engineering
+
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Preprocessing
+- Data Wrangling and Transformation
+- Data Visualization and Reporting
+- Market and Trend Analysis
+- Structured and Semi-Structured Data Handling
+- API Data Collection and Integration
+- ETL and Data Pipeline Concepts
+- Data Modeling Fundamentals
+- Batch Data Processing
+- Dashboard Metrics and KPI Design
+- Insight Generation and Decision Support
+- Research-Oriented Data Workflows
+- Generative AI for Analysis and Summarization
+
 ### Core Skill Areas
 
 - AI Data Analysis and Insight Generation
 - Generative AI and Prompt-Driven Workflows
 - Market Analysis and Research Support
+- Data Engineering Fundamentals and Pipeline Thinking
+- Data Transformation, Aggregation, and Reporting
 - Dashboard, Monitoring, and Research UI Development
 - Data Visualization and Information Design
 - Frontend Engineering with TypeScript and Modern Web Tooling
