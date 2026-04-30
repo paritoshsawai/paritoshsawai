@@ -16,7 +16,9 @@
 
 ## About Me
 
-Developer focused on AI-assisted products, data analysis, market intelligence, and interactive web applications. I enjoy building tools that turn noisy information into clean dashboards, research workflows, and decision-support experiences.
+I am a developer focused on AI-assisted products, data analysis, and interactive dashboard experiences. I enjoy building tools that help transform complex information into clear insights, especially in areas like market intelligence, research workflows, and live monitoring systems.
+
+My work is centered around creating practical digital products that combine frontend development, structured data, and analytical thinking. I am especially interested in how GenAI can support research, summarization, decision support, and insight generation in real-world applications.
 
 - Interested in AI data analysis, GenAI workflows, market research, and monitoring systems
 - Focused on building interactive dashboards and insight-driven user experiences
@@ -24,6 +26,13 @@ Developer focused on AI-assisted products, data analysis, market intelligence, a
 - Continuously strengthening practical skills through hands-on portfolio and research projects
 
 ## Professional Skills
+
+## Professional Summary
+
+- AI Data Analyst and Frontend Builder with strong interest in GenAI, market intelligence, and data-driven product experiences
+- Skilled at building dashboards, research-oriented interfaces, and interactive tools for analyzing structured and live data
+- Interested in combining frontend engineering, data visualization, and AI workflows to create useful decision-support products
+- Focused on practical project development, UI refinement, and turning information-heavy systems into clean user experiences
 
 ### Languages
 <p>
@@ -54,6 +63,15 @@ Developer focused on AI-assisted products, data analysis, market intelligence, a
 - Working on market, dashboard, and research-style interfaces
 - Exploring practical uses of GenAI in analysis and decision support
 
+## What I Like Building
+
+- Research dashboards
+- Market analysis tools
+- Data-driven web applications
+- Interactive visual interfaces
+- Monitoring and signal-tracking systems
+- AI-assisted productivity and insight tools
+
 ## Featured Project
 
 ### Live Market Analysis
@@ -63,6 +81,7 @@ Portfolio-focused real-time dashboard for market, geopolitical, and infrastructu
 - Customized and refined a live intelligence-style dashboard into a portfolio-oriented research interface
 - Improved branding, default panel setup, layout behavior, and public-facing UI experience
 - Worked with TypeScript, Vite, modular UI panels, live data presentation, and interactive market-analysis workflows
+- Explored how data-rich interfaces can support analysis, situational awareness, and faster decision-making
 
 <p>
   <a href="https://github.com/paritoshsawai/Live-Market-Tracker">
