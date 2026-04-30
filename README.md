@@ -25,8 +25,6 @@ My work is centered around creating practical digital products that combine fron
 - Comfortable working across UI refinement, debugging, product customization, and live-data presentation
 - Continuously strengthening practical skills through hands-on portfolio and research projects
 
-## Professional Skills
-
 ## Professional Summary
 
 - AI Data Analyst and Frontend Builder with strong interest in GenAI, market intelligence, and data-driven product experiences
@@ -34,27 +32,29 @@ My work is centered around creating practical digital products that combine fron
 - Interested in combining frontend engineering, data visualization, and AI workflows to create useful decision-support products
 - Focused on practical project development, UI refinement, and turning information-heavy systems into clean user experiences
 
-### Languages
+## Technical Skills
+
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Languages" />
 </p>
 
-### Frameworks and Tools
+### Tools and Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs,git,github,vscode" alt="Frameworks and tools" />
 </p>
 
-### Core Strengths
+### Core Skill Areas
 
-- AI Data Analysis
-- Generative AI Workflows
-- Market Analysis
-- Dashboard and Research UI Development
-- Data Visualization Interfaces
-- Frontend Engineering
-- API Integration
-- Debugging and UI Refinement
-- Git and Version Control
+- AI Data Analysis and Insight Generation
+- Generative AI and Prompt-Driven Workflows
+- Market Analysis and Research Support
+- Dashboard, Monitoring, and Research UI Development
+- Data Visualization and Information Design
+- Frontend Engineering with TypeScript and Modern Web Tooling
+- API Integration and Structured Data Handling
+- Debugging, UI Refinement, and Product Customization
+- Git, GitHub, and Version Control Collaboration
 
 ## Current Focus
 
