@@ -1,6 +1,10 @@
 # Hi, I'm Paritosh Sawai
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:1e293b&height=190&section=header&text=Paritosh%20Sawai&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=AI%20Data%20Analysis%20%7C%20GenAI%20%7C%20Market%20Intelligence&descAlignY=60&descSize=18" alt="Profile banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=0F766E&center=true&vCenter=true&width=1150&lines=AI+Data+Analyst+%26+Frontend+Builder;GenAI%2C+Market+Research%2C+and+Interactive+Dashboards;Transforming+complex+data+into+clear+actionable+insights" alt="Typing intro" />
 </p>
 
