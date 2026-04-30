@@ -1,7 +1,7 @@
 # Hi, I'm Paritosh Sawai
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=0F766E&center=true&vCenter=true&width=950&lines=Frontend+Developer;Building+data-driven+web+applications;Interested+in+dashboards%2C+analytics%2C+and+interactive+UI" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=0F766E&center=true&vCenter=true&width=1150&lines=AI+Data+Analyst+%26+Frontend+Builder;GenAI%2C+Market+Research%2C+and+Interactive+Dashboards;Transforming+complex+data+into+clear+actionable+insights" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -11,17 +11,17 @@
   <a href="https://www.linkedin.com/in/paritoshsawai/">
     <img src="https://img.shields.io/badge/LinkedIn-Paritosh_Sawai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Software%20Opportunities-0f766e?style=for-the-badge" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/Focused%20on-GenAI%20%26%20Market%20Intelligence-0f766e?style=for-the-badge" alt="Focused on GenAI and Market Intelligence" />
 </p>
 
 ## About Me
 
-Frontend-focused developer with a strong interest in building useful digital products, especially dashboards, research tools, and data-heavy user interfaces. I enjoy improving product usability, refining UI details, and turning complex information into clean, understandable experiences.
+Developer focused on AI-assisted products, data analysis, market intelligence, and interactive web applications. I enjoy building tools that turn noisy information into clean dashboards, research workflows, and decision-support experiences.
 
-- Focused on frontend development and interactive web applications
-- Interested in analytics, monitoring tools, dashboards, and research workflows
-- Comfortable working on UI improvements, project customization, debugging, and feature refinement
-- Continuously building stronger real-world skills through hands-on portfolio projects
+- Interested in AI data analysis, GenAI workflows, market research, and monitoring systems
+- Focused on building interactive dashboards and insight-driven user experiences
+- Comfortable working across UI refinement, debugging, product customization, and live-data presentation
+- Continuously strengthening practical skills through hands-on portfolio and research projects
 
 ## Professional Skills
 
@@ -37,21 +37,22 @@ Frontend-focused developer with a strong interest in building useful digital pro
 
 ### Core Strengths
 
-- Frontend Development
-- Responsive Web Design
-- Dashboard UI Development
+- AI Data Analysis
+- Generative AI Workflows
+- Market Analysis
+- Dashboard and Research UI Development
 - Data Visualization Interfaces
+- Frontend Engineering
+- API Integration
 - Debugging and UI Refinement
 - Git and Version Control
-- API Integration
-- Project Customization and Rebranding
 
 ## Current Focus
 
-- Building portfolio-quality web applications
-- Improving UI/UX for data-rich products
-- Working on monitoring, dashboard, and research-style interfaces
-- Strengthening practical development skills through real project work
+- Building portfolio-quality AI and analytics projects
+- Improving UI/UX for data-heavy products
+- Working on market, dashboard, and research-style interfaces
+- Exploring practical uses of GenAI in analysis and decision support
 
 ## Featured Project
 
@@ -61,7 +62,7 @@ Portfolio-focused real-time dashboard for market, geopolitical, and infrastructu
 
 - Customized and refined a live intelligence-style dashboard into a portfolio-oriented research interface
 - Improved branding, default panel setup, layout behavior, and public-facing UI experience
-- Worked with TypeScript, Vite, modular UI panels, live data presentation, and interactive map-based workflows
+- Worked with TypeScript, Vite, modular UI panels, live data presentation, and interactive market-analysis workflows
 
 <p>
   <a href="https://github.com/paritoshsawai/Live-Market-Tracker">
